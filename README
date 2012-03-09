@@ -1,0 +1,4 @@
+This program draws the Mandelbrot Set. 
+It is a multi-threads C program based on MPI
+Compile with 'mpicc -mpe=graphics Mandelbrot.c -o Mandelbrot -lm'
+
